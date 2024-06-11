@@ -1,2 +1,2 @@
 # Solar-Conquest-Scripts
-Solar conquest Scripts
+all scripts here were made by me exepect infinite yield lol
